@@ -4,6 +4,8 @@ Link to Apps: https://predict-ml-prg1bmgtluk.streamlit.app/
 ## Application of AI in Documentation (HealthCare):
 DeepScribe is an AI-powered medical transcription service that aims to automate the process of converting physician-patient interactions (doctor's spoken notes) into accurate and structured clinical documentation. The platform utilizes natural language processing (NLP) and advanced speech recognition technologies to transcribe and analyze medical conversations.
 
+Example of Code: [Link](https://github.com/ismailsakdo/predict-ml-health/blob/main/transcribe.py)
+
 Here's how DeepScribe typically works:
 
 1. **Audio Recording:** During a patient visit, a healthcare provider can use DeepScribe to record the conversation between the doctor and patient.
