@@ -2,22 +2,23 @@
 Link to Apps: https://predict-ml-prg1bmgtluk.streamlit.app/
 
 ## Application of AI in Documentation (HealthCare):
+DeepScribe is an AI-powered medical transcription service that aims to automate the process of converting physician-patient interactions (doctor's spoken notes) into accurate and structured clinical documentation. The platform utilizes natural language processing (NLP) and advanced speech recognition technologies to transcribe and analyze medical conversations.
+
 Here's how DeepScribe typically works:
 
-Audio Recording: During a patient visit, a healthcare provider can use DeepScribe to record the conversation between the doctor and patient.
+1. **Audio Recording:** During a patient visit, a healthcare provider can use DeepScribe to record the conversation between the doctor and patient.
 
-Transcription: The recorded audio is then uploaded to DeepScribe's platform, where the AI algorithms transcribe the spoken content into text.
+2. **Transcription:** The recorded audio is then uploaded to DeepScribe's platform, where the AI algorithms transcribe the spoken content into text.
 
-NLP Analysis: DeepScribe's AI engine utilizes NLP algorithms to understand the context and extract meaningful information from the transcribed text.
+3. **NLP Analysis:** DeepScribe's AI engine utilizes NLP algorithms to understand the context and extract meaningful information from the transcribed text.
 
-Structured Documentation: The transcribed content is organized into a structured and coherent clinical note. Relevant information, such as diagnosis, treatment plans, prescriptions, and follow-up instructions, is extracted and organized.
+4. **Structured Documentation:** The transcribed content is organized into a structured and coherent clinical note. Relevant information, such as diagnosis, treatment plans, prescriptions, and follow-up instructions, is extracted and organized.
 
-Review and Editing: The generated clinical note is then available for review by the healthcare provider. They can edit, approve, or make any necessary changes to ensure the accuracy and completeness of the documentation.
+5. **Review and Editing:** The generated clinical note is then available for review by the healthcare provider. They can edit, approve, or make any necessary changes to ensure the accuracy and completeness of the documentation.
 
 The goal of DeepScribe is to streamline the documentation process, save time for healthcare providers, and reduce administrative burdens, ultimately allowing doctors to focus more on patient care.
 
 Please note that advancements may have occurred since my last update, so I recommend visiting the official DeepScribe website or conducting a search for the latest information and updates about the platform.
-
 # List of AI Application in Healthcare:
 Here are the details of the 10 AI tools and their applications in healthcare:
 
