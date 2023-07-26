@@ -2,7 +2,7 @@
 Link to Apps: https://predict-ml-prg1bmgtluk.streamlit.app/
 
 # List of AI Application in Healthcare:
-Certainly! Here are the details of the 10 AI tools and their applications in healthcare:
+Here are the details of the 10 AI tools and their applications in healthcare:
 
 1. IBM Watson for Oncology:
 IBM Watson for Oncology is an AI-powered platform that assists oncologists in personalized cancer treatment decisions. It analyzes vast amounts of medical literature, research papers, and patient data to recommend evidence-based treatment options. The platform considers patient-specific factors like age, gender, medical history, and genetic information to provide tailored treatment plans. It helps doctors keep up with the latest advancements in oncology and improve decision-making for cancer patients.
